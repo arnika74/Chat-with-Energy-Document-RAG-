@@ -1,4 +1,4 @@
-# Sudharshan – AI Research Paper Assistant (RAG-Based)
+# Chat with energy document (RAG-Based)
 
 **Tech Stack:** FastAPI (backend), PostgreSQL (SQLAlchemy), FAISS (vector store), sentence-transformers (embeddings), Hugging Face Inference (Mixtral 8x7B) or local fallback, Streamlit (frontend), pdfplumber/PyPDF2 (PDF), Git/GitHub.
 
